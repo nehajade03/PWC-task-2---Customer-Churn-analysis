@@ -66,7 +66,7 @@ Dashboard: [Live DashBoard](https://app.powerbi.com/groups/me/reports/eb881247-8
 
 ![image](https://github.com/user-attachments/assets/6b85d626-446b-4c4e-87a0-da0bb2bb0559)
 
-![image](https://github.com/user-attachments/assets/607c1fc8-77cf-4a5b-aa87-47db8550f8e4)
+![image](https://github.com/user-attachments/assets/b2d50993-4809-41e9-87d2-262724baeac0)
 
 ![image](https://github.com/user-attachments/assets/975bc982-effa-4716-b88e-34280635064e)
 
